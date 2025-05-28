@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f3dJlI/hFPfi9t6ojSrVLXmVX9wXjb8il4lEregu32s=",
+  "Source": "CryptoWallet",
+  "BasePath": "_content/CryptoWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

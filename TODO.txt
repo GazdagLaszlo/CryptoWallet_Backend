@@ -1,0 +1,6 @@
+- Service osztályba szervezni az üzleti logikát.
+- Utána nézni a object cycle-nek.
+- Megnézni hogy hozzá van e rendelve mindenhol a navigációs osztály. -> EF Core automatikusan hozzárendeli
+- Átírni a GetByIdAsync függvényt.
+- Docker Support + .dockerignore
+- Cryptocurrency lekéréskor a Totalsupply-t ellenőrizni hogy változott-e.
